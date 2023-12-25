@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kyrylo</h1>
 <h3 align="center">*************************</h3>
-<h3>- Engineer at Anasi Studios.</h3>
+<h3>- Senior Software developer</h3>
 <h3>- Bachelors Of Computer science.</h3>
 <p align="left">
 </p>
