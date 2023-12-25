@@ -16,6 +16,5 @@
 |                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=worldbestpro&theme=vue-dark" alt="worldbestpro Streak" />                                           |  <img width="450em" align="center" alt="worldbestpro's Github stats"  src="https://github-readme-stats.vercel.app/api?username=worldbestpro&show_icons=true&count_private=true&theme=vue-dark" />   |
 
 <br/>
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=To%20know,%20is%20to%20know%20that%20you%20know%20nothing.%20Nothing%20but%20the%20art%20of%20self-ignorance.&author=He%20who%20embraced%20his%20own%20ignorance" /> </p>
 
 <img src="https://komarev.com/ghpvc/?username=worldbestpro" />
