@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyrylo</h1>
-<h3 align="center">*************************</h3>
+<h3 align="center"></h3>
 <h3>- Senior Software developer</h3>
 <h3>- Bachelors Of Computer science.</h3>
 <p align="left">
@@ -16,5 +16,3 @@
 |                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=worldbestpro&theme=vue-dark" alt="worldbestpro Streak" />                                           |  <img width="450em" align="center" alt="worldbestpro's Github stats"  src="https://github-readme-stats.vercel.app/api?username=worldbestpro&show_icons=true&count_private=true&theme=vue-dark" />   |
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=worldbestpro" />
